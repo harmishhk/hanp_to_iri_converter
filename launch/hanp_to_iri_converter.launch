@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="hanp_to_iri_converter" type="hanp_to_iri_converter" name="hanp_to_iri_converter" output="screen" />
+</launch>
